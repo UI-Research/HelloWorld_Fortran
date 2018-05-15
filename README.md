@@ -2,6 +2,7 @@
 Generic Fortran model
 
 For use with Data@Urban blog post.
+See tutorial [here](https://medium.com/@urban_institute/fortran-and-docker-how-to-combine-legacy-code-with-cutting-edge-components-35e934b15023) for full walkthrough.
 
 Use make to create executeable (`make HelloWorld`)
 
